@@ -41,7 +41,7 @@
     "mustache": "^2.3.0",
     "proxy-addr": "^1.1.4",
     "type-is": "^1.6.15",
-    "ws": "^2.2.3"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "babel-core": "^6.24.0",
